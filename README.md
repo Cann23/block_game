@@ -20,6 +20,9 @@ One for easy mode and the other one for hard mode.
 In easy mode the user can create shape from input console.
 However, the shape occurs randomly in the hard mode.
 
-When the user place a shape successfully, the user gets 50 points.
-If one or more of the 3 above-mentioned situations occur, the user gets 100 points.
+The user chooses x and y values to put the shape. According to these values, the user may place successfully or unsuccessfully. There are some situations that may arise for this placement:
+
+- When the user places a shape successfully, the user gets 50 points.
+- If one or more of the 3 above-mentioned situations occur, the user gets 100 points.
+- If the user tries to place it where the user can't, the user loses 25 points.
             
